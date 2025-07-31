@@ -1,7 +1,7 @@
 const settings = {
   packname: '⎯𓆩〬𝐁𝐋𝐀𝐂𝐊 𝔅𝔏𝔄𝔃𝔈𓍢𓆪 𓆩𓂍〬𝔅𝔯𝔬𝔨𝔢𝔫 𝕊𝕠𝕦𝕝𓆪𓍯 𓆩〬𝐃𝐀𝐑𝐊 𝔇𝔞𝔴𝔫𓂍𓆪⎯',
   author: '⎯𓆩〬𝐁𝐋𝐀𝐂𝐊 𝔅𝔏𝔄𝔃𝔈𓍢𓆪 𓆩𓂍〬𝔅𝔯𝔬𝔨𝔢𝔫 𝕊𝕠𝕦𝕝𓆪𓍯 𓆩〬𝐃𝐀𝐑𝐊 𝔇𝔞𝔴𝔫𓂍𓆪⎯‎',
-  botName: "*Angel of Battle V4*",
+  botName: "*Smash-v1*",
   botOwner: '⎯𓆩〬𝐁𝐋𝐀𝐂𝐊 𝔅𝔏𝔄𝔃𝔈𓍢𓆪 𓆩𓂍〬𝔅𝔯𝔬𝔨𝔢𝔫 𝕊𝕠𝕦𝕝𓆪𓍯 𓆩〬𝐃𝐀𝐑𝐊 𝔇𝔞𝔴𝔫𓂍𓆪⎯', // Your name
   ownerNumber: '2557719632816', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
